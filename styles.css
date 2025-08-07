@@ -18,7 +18,7 @@ header {
     font-size: 32px;
     font-weight: bold;
     border: 2px solid black;
-    display: flex;
+    display: inline-flex;
     justify-content: left;
 }
 
@@ -231,3 +231,4 @@ header {
 .button-secondary button:hover {
     background-color: beige;
 }
+
